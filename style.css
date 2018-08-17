@@ -21,6 +21,10 @@ header {
   padding: 10px 0px;
 }
 
+header img {
+  padding-top: 20px;
+}
+
 header a,h1,p {
   color: #fff;
 }
